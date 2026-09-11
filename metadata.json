@@ -1,0 +1,6 @@
+{
+  "name": "LocalRide Fleet & Booking",
+  "description": "Local vehicle booking platform with real-time availability, MFA security, admin fleet management, route fare updater, and maintenance tracking.",
+  "requestFramePermissions": ["notifications"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
